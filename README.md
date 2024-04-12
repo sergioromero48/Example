@@ -27,4 +27,4 @@ To ensure a smooth and productive workshop experience, please complete the follo
 3. **Download Workshop Materials:** Clone this repository to download the workshop materials, including exercises and reference sheets.
 
    ```bash
-   git clone https://github.com/sergioromero48/Git-Workshop.git
+   https://github.com/sergioromero48/git-workshop.git
