@@ -1,4 +1,4 @@
-# Git Workshop README
+# Git Workshop
 
 Welcome to the Git Workshop! This workshop is designed to introduce you to Git, a powerful version control system that is an essential tool for collaborative software development projects. Whether you're a beginner or looking to refresh your knowledge, this workshop will provide you with the foundational skills you need to start using Git effectively. 
 
