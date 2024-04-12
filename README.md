@@ -4,6 +4,7 @@ Welcome to the Git Workshop! This workshop is designed to introduce you to Git, 
 
 ### SUPPLEMENTARY CONTENT: 
 LECTURE SLIDE: https://www.canva.com/design/DAF_hnEAh4E/wqLB3tN8VyWlnANbYxhhaQ/edit?utm_content=DAF_hnEAh4E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+
 REFRENCES: https://git-scm.com/docs
 
 ## Workshop Overview
