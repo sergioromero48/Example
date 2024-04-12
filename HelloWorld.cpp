@@ -17,5 +17,5 @@ int main()
  The output will be: 
  Hello, World!
  
- That’s it! You have successfully compiled and run your first C++ program. 
+ That’s it!
 */
